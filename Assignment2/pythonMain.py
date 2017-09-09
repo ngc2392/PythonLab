@@ -28,9 +28,13 @@ print("You entered " + numberTwo + " as your second number")
 
 #print factors of first number
 
-print("The common factors are")
-numberOne = int(numberOne)
-numberTwo = int(numberTwo)
-for i in range(1, numberOne + 1):
-    if numberOne % i == 0 and numberTwo % i == 0:
-        print(i)
+def find_common_factors(n1, n2):
+    print("The common factors are")
+    numberOne = int(n1)
+    numberTwo = int(n2)
+
+    for i in range(1, numberOne + 1):
+        if numberOne % i == 0 and numberTwo % i == 0:
+            print(i)
+
+find_common_factors(numberOne, numberTwo)
