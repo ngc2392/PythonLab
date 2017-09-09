@@ -30,3 +30,4 @@ print("randomzied: " + dataRandomized)
 #write to the file
 writeFile = open("randomizedStrings.txt", "w")
 writeFile.write(dataRandomized)
+print("There are " + str(len(dataRandomized)) + " letters")
