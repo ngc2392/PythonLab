@@ -1,7 +1,7 @@
 # PythonLab
 
 
-##Assignment 1
+## Assignment 1
 
 To get started with the semester, we should start by installing a development environment, that is, a program we can use to write Python programs.  For instance, we used Eclipse in CDS 142 to write Java programs.
 
@@ -14,7 +14,7 @@ Get on the Web and find a simple example python script, and figure out how to cr
 Bring up a command line shell, and use the internet (or your instructor) to help you figure out how to navigate to the folder containing your script and execute it using the python interpreter.
 Note: several years ago, the python language evolved from version 2 to version 3, and there were several major incompatible changes to the language.  To this day, there is still a lot of python code out there that does not work under version 3.  We will study version 3 of the language this semester, but you must be aware of this distinction, and be careful when you study example code from tutorials to understand what version of python the code is written for.
 
-##Assignment 2 
+## Assignment 2 
 
 It's time to start learning some python!
 
@@ -38,7 +38,7 @@ Note that, frequently, you will not be able to turn straight to the information 
 
 Assignment: Once you're done, complete this assignment by writing a program that reads in two integers, and prints all of the positive factors they have in common. 
 
-##Assignment 3
+## Assignment 3
 
 Fundamental to most programming languages are facilities for the manipulation of text.  String variables and the ability to perform operations on them are universal.
 
