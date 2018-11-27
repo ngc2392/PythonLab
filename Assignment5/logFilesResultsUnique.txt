@@ -1,0 +1,13 @@
+File Name                     visits
+
+
+/blog/bubba/120716/chicken.html 9
+/blog/bubba/120716/pizza.html 3
+/blog/bubba/120716/stromboli.html 2
+/blog/bubba/120716/hello.html 1
+/blog/bubba/120716/coulson.html 1
+/blog/bubba/120716/nate.html 1
+/blog/bubba/120716/soup.html 1
+/blog/bubba/120716/dinosaur.html 1
+/blog/bubba/120716/sandwhich.html 1
+/blog/bubba/120716/nick.html 1

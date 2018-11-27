@@ -1,0 +1,4 @@
+The first address is a restaurant and the second address is a movie theater
+ORIGIN 1: 332 Penn St, Reading, PA 19602, United States  DESTINATION 1:  30 N 2nd St, Reading, PA 19601, USA DISTANCE: 468
+ORIGIN 2: 535 Canal St, Reading, PA 19602, United States  DESTINATION 2:  30 N 2nd St, Reading, PA 19601, USA DISTANCE: 2012
+ORIGIN 3: 425 S Cameron St, Harrisburg, PA 17101, United States  DESTINATION 3:  3501 Paxton St, Harrisburg, PA 17111, USA DISTANCE: 3884
